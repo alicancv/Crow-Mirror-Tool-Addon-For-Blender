@@ -1,5 +1,5 @@
 # Crow-Mirror-Tool-Addon-For-Blender
-A mirror tool (addon) for Blender. It is used for mirroring curves and meshes. When it mirrors it also mirrors origin of the object providing a consitent mirroring for both meshes and curves. It also has hair mirror tool.
+A mirror tool (addon) for Blender. It is used for mirroring curves and meshes. When it mirrors it also mirrors origin of the object providing a consistent mirroring for both meshes and curves. It also has hair mirror tool.
 
 # Mesh and Curve Mirroring
 https://github.com/user-attachments/assets/2669e18d-5361-453b-8ff9-c1241562038c
